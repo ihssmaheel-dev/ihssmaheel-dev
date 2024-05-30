@@ -1,17 +1,16 @@
 <!-- README inspired by @unrealapex -->
-<samp> 
-  hi, i'm mohamed ismail<br>
-  👩🏼‍💻 i code stuff; started on jan 2023<br>
+<samp> hi, i'm mohamed ismail<br>
+  👩🏼‍💻 coding enthusiast; started on jan 2023<br>
   🌁 based in the vibrant state of **tamil nadu, india**<br>
   💛 javascript is my jam <3 <br>
-  🤓 techs-exploring: html, css, bootstrap, tailwind, javascript, typescript, reactjs, nodejs, expressjs, <br>
+  🤓 techs i'm exploring: html, css, bootstrap, tailwind, javascript, typescript, reactjs, nodejs, expressjs, <br>
   &nbsp; &nbsp;java, spring boot, mysql, mongodb, git, github <br>
   🎯 aimed to dominate: nextjs, threejs and r3f <br>
   🌱 always learning and growing <br>
   🧰 tools: windows, chrome, xampp, vscode, insomnia, dbeaver, mongocompass<br>
-  📡 github: [@ihssmaheel-dev](https://github.com/ihssmaheel-dev) and i go by `ihssmaheel` or `zxcvbnm.io` on the internets<br>
-  🕹️ playing: call of duty, squad busters<br>
-  🎥 huge fan of anime; recent-watches: ninja kamui, solo leveling, kaiju no.8<br>
+  📡 github: [@ihssmaheel-dev](https://github.com/ihssmaheel-dev) and i usually go by `ihssmaheel` online<br>
+  🕹️ gaming: call of duty, squad busters<br>
+  🎥 huge anime fan; recent-watches: ninja kamui, solo leveling, kaiju no.8<br>
 </samp>
 
 <!--
