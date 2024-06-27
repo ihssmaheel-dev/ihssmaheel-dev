@@ -9,8 +9,6 @@
   🌱 always learning and growing <br>
   🧰 tools: windows, chrome, xampp, vscode, insomnia, dbeaver, mongocompass<br>
   📡 github: [@ihssmaheel-dev](https://github.com/ihssmaheel-dev) and i usually go by `ihssmaheel` online<br>
-  🕹️ gaming: call of duty, squad busters<br>
-  🎥 huge anime fan; recent-watches: ninja kamui, solo leveling, kaiju no.8<br>
 </samp>
 
 <!--
