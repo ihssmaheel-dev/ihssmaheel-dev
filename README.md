@@ -5,10 +5,10 @@
   👩🏼‍💻 coding enthusiast; started on jan 2023<br>
   🌁 based in the vibrant state of **tamil nadu, india**<br>
   💛 javascript <3 <br>
-  🤓 techs i'm exploring: html, css, bootstrap, tailwind, javascript, typescript, reactjs, nodejs, expressjs, <br>
-  &nbsp; &nbsp;java, spring boot, mysql, mongodb, git, github <br>
-  🎯 aimed to dominate: rust, golang, nextjs, threejs and r3f <br>
+  🤓 techs i'm exploring: typescript, react, next.js, qwik, nest.js  <br>
+  &nbsp; &nbsp; mongodb, git, github <br>
   🌱 always learning and growing <br>
-  🧰 tools: windows, chrome, xampp, vscode 💞, insomnia, dbeaver, mongocompass<br>
+  🧰 tools: windows, chrome, vscode 💞, zed ❣, insomnia, mongocompass, planner - opencode, workhorse - codex<br>
   📡 github: [@ihssmaheel-dev](https://github.com/ihssmaheel-dev) and i usually go by `ihssmaheel` online<br>
+  📝 Blog: [dev.to/ihssmaheel](https://dev.to/ihssmaheel)
 </samp>
