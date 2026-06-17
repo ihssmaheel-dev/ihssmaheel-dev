@@ -11,4 +11,5 @@
   🧰 tools: windows, chrome, vscode 💞, zed ❣, insomnia, mongocompass, planner - opencode, workhorse - codex<br>
   📡 github: [@ihssmaheel-dev](https://github.com/ihssmaheel-dev) and i usually go by `ihssmaheel` online<br>
   📝 Blog: [dev.to/ihssmaheel](https://dev.to/ihssmaheel)
+  ☕ ko-fi: [buy me a ko-fi](https://ko-fi.com/ihssmaheeldev)
 </samp>
