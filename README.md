@@ -10,11 +10,9 @@
   🧩 interested in modular monoliths, system design & modern backend architecture<br>
   🚀 comfortable owning features end-to-end — from data modeling & APIs to polished user interfaces<br>
   🌱 always learning, experimenting & building better software<br>
-  <br>
   🤓 techs i work with: typescript, javascript, react, next.js, node.js, nestjs, fastify<br>
   &nbsp;&nbsp;&nbsp;&nbsp; postgresql, mongodb, redis, clickhouse, drizzle, prisma, bullmq<br>
   🧰 tools: git, github, gitlab, docker, pm2, swagger, postman<br>
-  <br>
   🤝 open to full-stack opportunities, collaborations & freelance projects<br>
   📡 github: <a href="https://github.com/ihssmaheel-dev">@ihssmaheel-dev</a> and i usually go by <code>ihssmaheel</code> online<br>
   📝 blog: <a href="https://dev.to/ihssmaheel">dev.to/ihssmaheel</a><br>
