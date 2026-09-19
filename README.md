@@ -1,7 +1,5 @@
 <!-- README inspired by @unrealapex -->
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md) <br>
-
 <samp>
   hi, i'm mohamed ismail 👋<br>
   👨‍💻 full-stack developer with 3+ years of experience building & shipping production applications<br>
