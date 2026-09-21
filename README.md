@@ -15,7 +15,6 @@
   🤝 open to full-stack opportunities, collaborations & freelance projects<br>
   📡 github: <a href="https://github.com/ihssmaheel-dev">@ihssmaheel-dev</a> and i usually go by <code>ihssmaheel</code> online<br>
   📝 blog: <a href="https://dev.to/ihssmaheel">dev.to/ihssmaheel</a><br>
-  ☕ ko-fi: <a href="https://ko-fi.com/ihssmaheeldev">buy me a ko-fi</a><br>
   <br>
   💬 building something interesting? let's talk.
 </samp>
